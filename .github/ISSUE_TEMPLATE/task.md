@@ -2,7 +2,7 @@
 name: Engineering Task
 about: Mentorship task
 title: '[TASK] '
-labels: task
+labels: task, phase-1
 ---
 
 ### Objective

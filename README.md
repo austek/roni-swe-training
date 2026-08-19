@@ -22,4 +22,5 @@ See [ROADMAP.md](ROADMAP.md) for the phased curriculum.
 4. Address review comments.
 5. Reviewer merges — no self-merge.
 
-CI runs a build, the test suite, and a lint check (`spotlessCheck`) on every PR.
+CI runs a build, the test suite, and a lint check (`spotlessCheck`) against `project/` on
+every PR — `drills/` isn't wired into CI yet; that lands when the first drill does.
