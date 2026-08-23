@@ -1,0 +1,7 @@
+fix: [TASK] Local dev setup + workflow dry run
+
+- README.md: local dev setup + workflow dry run
+
+Fixes #1
+
+Signed-off-by: Vedant Madane <6527493+VedantMadane@users.noreply.github.com>
